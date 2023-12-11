@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.1.0",
+    "discord-api-types": "^0.37.63",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "name": "bingobot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter",
+  "license": "ISC",
+  "description": ""
+}
